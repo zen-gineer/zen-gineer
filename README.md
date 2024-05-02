@@ -11,7 +11,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-💬 Ask me about HOTRODS so I know where you found me!
+💬 Ask me about HOT RODS so I know where you found me!
 <!--
 **zen-gineer/zen-gineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ⚡ Fun fact: ...
