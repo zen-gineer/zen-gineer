@@ -80,13 +80,13 @@ Teamwork, Communication, Interpersonal Skills, Loyalty, Reliability, Maturity, T
 - Assisting in the development of implementation tests in Golang for product migration, supporting code reliability and performance improvements within a CI/CD framework using GitHub, and played a key role in identifying and fixing critical bugs.
 - Engaging in weekly remote standups with the engineering team, assisting in the agile development process and facilitating effective communication on project progress and technical challenges.
 
-## Full-Stack Software Engineering Bootcamp | Hack Reactor | September 2022 - May 2023
+### Career Development Break: Full-Stack Software Engineering Bootcamp | Hack Reactor | September 2022 - May 2023
 
 - Succeeded in completion of over 1,000 hours of hands-on coding in a simulated Agile remote work environment, gaining skills in full-stack development best practices and collaborative coding techniques.
 - Acquired and applied advanced proficiency in multiple languages and frameworks under tight deadlines in an intense immersive, proving tenacity, determination, and mental endurance.
 _Python3, JavaScript ES6, Django, FastAPI, ReactJS, PostgreSQL, Docker, Git, HTML, and CSS, RabbitMQ_
 
-## Operations Consultant | Austin Speed Shop | October 2018 - Sept 2022
+### Operations Consultant | Austin Speed Shop | October 2018 - Sept 2022
 
 Fostered exceptional client relations and internal team collaboration inside a world-renown hot rod shop. Credited for business savvy and effective communication with technical and non-technical stakeholders.
 
@@ -112,31 +112,34 @@ Fostered exceptional client relations and internal team collaboration inside a w
 
 - Embarked on a strategic career transition, relocating to Texas to pursue new opportunities, demonstrating resilience, initiative, and a proactive approach to personal and career development.
 
-## Independent Contractor / Driver | Lyft | October 2017 - June 2018
+### Independent Contractor / Driver | Lyft | October 2017 - June 2018
 
 - Maintained a 5-star rating as a Lyft driver through exceptional customer service, navigational skills, and a strong commitment to safety and reliability, demonstrating the ability to excel in service-oriented tasks.
 
-## Executive Assistant to the President | S&S, LLC | Dec 2012 - October 2017
+### Executive Assistant to the President | S&S, LLC | Dec 2012 - October 2017
 
 - Mastered diverse project management and coordination tasks, including assisting in the interior design of a vacation lodge, oversaw rental property vendor relations, demonstrated unparalleled adaptability and problem-solving skills in high-stakes environments.
 - excelled in executive support functions, constructed critical correspondence, hosted VIP clientele at events, showcasing exceptional interpersonal skills and the ability to thrive in varied settings.
 
-## Graphic Artist | Freelance | June 2002 - Present
+### Graphic Artist | Freelance | June 2002 - Present
 
 - Applied advanced proficiency in design software and web development tools to develop brand identity, demonstrated project management and client engagement skills.
 - Honed graphic design and web development expertise to deliver high-impact digital content, including dynamic websites and compelling brand materials.
 
-## Household Manager | Heblo Productions | April 2000 - December 2012
+### Career Development: Bachelor of Arts, Graphic Design & Illustration | San Francisco Academy of Art | September 2010 - May 2011
+- Completed units in Layout best practices, Color theory, Prototyping, Storyboarding, and Typography.
+
+### Household Manager | Heblo Productions | April 2000 - December 2012
 
 - Managed household finances and led multiple renovation projects, developed strong budgeting, project management, and negotiation skills.
 - Independently designed and executed home improvement projects showcasing ability to self-teach.
 
-## Earned AA in Web Design | West Valley Mission College | September 2000 - June 2002
+### Earned Associate of Arts in Web Design | West Valley Mission College | September 2000 - June 2002
 
 - Developed and designed a non-profit website within a small team, focused on content and client needs using HTML, CSS, and Adobe suite, showcasing teamwork and web design skills.
 - Graduated with a 3.9 GPA, mastering web design, animation, and graphic tools, setting the stage for future software engineering career focused on user experience.
 
-## Quality Assurance Engineer (MEBES) | Compugraphics, USA | November 1998 - April 2000
+### Quality Assurance Engineer (MEBES) | Compugraphics, USA | November 1998 - April 2000
 
 - Leveraged meticulous attention to detail and advanced technological problem-solving abilities to dynamically adapt process parameters, ensuring photomask specifications met critical dimension tolerances.
 - Utilized data-driven decision-making to optimize chemical processing cycles for photomasks, achieving desired outcomes by analyzing trends and adjusting protocols in real-time.
